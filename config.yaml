@@ -10,7 +10,7 @@ batch_size: 64
 print_freq: 1000
 max_epochs: 20
 es_epochs: 4
-seed: 100
+seed: 42
 valid_frac: 16
 train_frac: 1
 optimizer:
