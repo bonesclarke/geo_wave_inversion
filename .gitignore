@@ -6,6 +6,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Model file because it is too large for Github
+*.pth
+
 # C extensions
 *.so
 
