@@ -11,8 +11,8 @@ print_freq: 1000
 max_epochs: 30
 es_epochs: 4
 seed: 42
-valid_frac: 16
-train_frac: 2
+valid_frac: 32
+train_frac: 4
 optimizer:
     lr: 0.0005
     weight_decay: 0.001
